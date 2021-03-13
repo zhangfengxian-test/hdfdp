@@ -1,4 +1,4 @@
-package v01;
+package ch01;
 
 public class FlyRocketPowered implements FlyBehavior {
     public void fly() {

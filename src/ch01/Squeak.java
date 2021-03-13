@@ -1,4 +1,4 @@
-package v01;
+package ch01;
 
 public class Squeak implements QuackBehavior {
     public void quack() {
